@@ -29,6 +29,6 @@ Tip: discard the non-continuous data from the DataFrame.
     
     
 
-<h3> All my and my duo's code is in Portuguese, but I intend to change it to English in the future (= </h3>
+<h4> All my and my duo's code is in Portuguese, but I intend to change it to English in the future (= </h4>
 
-<h3>This is the linkedin of my challenge duo: https://www.linkedin.com/in/estheraragaos/</h3>
+<h4>This is the linkedin of my challenge duo: https://www.linkedin.com/in/estheraragaos/</h4>
