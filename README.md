@@ -7,7 +7,7 @@ The Measurement file is the database.
 
 The focus of the challenge is to create more affinity with the pandas library, especially with manipulating dataframes. 
 
-<h1>Enunciate:</h1>
+<h3>Enunciate:</h3>
 
 This challenge consists of writing a script that performs the following tasks:
 
@@ -29,4 +29,4 @@ Tip: discard the non-continuous data from the DataFrame.
     
     
 
-All my and my duo's code is in Portuguese, but I intend to change it to English in the future (=
+</h4> All my and my duo's code is in Portuguese, but I intend to change it to English in the future (= </h4>
