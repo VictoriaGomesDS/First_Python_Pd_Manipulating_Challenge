@@ -30,3 +30,5 @@ Tip: discard the non-continuous data from the DataFrame.
     
 
 </h3> All my and my duo's code is in Portuguese, but I intend to change it to English in the future (= </h3>
+
+<h2>This is the linkedin of my challenge duo: https://www.linkedin.com/in/estheraragaos/</h2>
