@@ -26,5 +26,7 @@ Tip: discard the non-continuous data from the DataFrame.
 
 5. The Challenge must be done in pairs, trios, or individually. The DataFrame must be saved in .xls as "Challenge1 <your names>.xls" and sent via slack along with the script in .ipynb. All steps done in the script must be documented using Markdown.
 
+    
+    
 
 All my and my duo's code is in Portuguese, but I intend to change it to English in the future (=
